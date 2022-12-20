@@ -10,7 +10,8 @@ jobs:
 
   build:
     name: Build
-    runs-on: ubuntu-latest
+    # runs-on: ubuntu-latest
+    runs-on: self-hosted
     steps:
 
     - name: Set up Go 1.x
@@ -27,5 +28,5 @@ jobs:
     - run: make test
 
     - run: make test_bench
-      
+
     - run: make test_race

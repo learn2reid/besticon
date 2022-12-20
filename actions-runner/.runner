@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 2,
+  "agentName": "Retinelle",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelines.actions.githubusercontent.com/GVobCKPWsZupixArqO0XUfsBZJ7hdofLLxtLIVPVgz9vV2eFOk",
+  "gitHubUrl": "https://github.com/learn2reid/besticon",
+  "workFolder": "_work"
+}
