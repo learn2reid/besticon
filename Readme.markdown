@@ -11,7 +11,7 @@ Try out the demo at <https://besticon-demo.herokuapp.com> or find out how to [de
 
 [![Build Status](https://travis-ci.org/mat/besticon.svg?branch=master)](https://travis-ci.org/mat/besticon)
 [![Go Report Card](https://goreportcard.com/badge/github.com/mat/besticon)](https://goreportcard.com/report/github.com/mat/besticon)
-[![Donate at PayPal](https://img.shields.io/badge/paypal-donate-orange.svg?style=flat)](https://paypal.me/matthiasluedtke 'Donate once-off to this project using Paypal')
+[![Build + Test](https://github.com/learn2reid/besticon/actions/workflows/go.yml/badge.svg)](https://github.com/learn2reid/besticon/actions/workflows/go.yml)
 
 ## What's this?
 
